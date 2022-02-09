@@ -28,4 +28,4 @@ public class LoggingAspect {
             log.warn("걸린시간: {}ms", end - start);
         }
     }
-}용
+}
